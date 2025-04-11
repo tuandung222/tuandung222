@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <div align="center">Hi 👋, I'm Dung Vo</div>
-## <div align="center">AI Research and Development Engineer & Computer Science Grad Student</div>
+## <div align="center">AI Research and Development Engineer | Computer Science Grad Student</div>
 
 Welcome to my GitHub profile! I'm Dung Vo Pham Tuan, currently pursuing my Master's degree in Computer Science with a specialization in Applied Data Science at Ho Chi Minh University of Technology (HCMUT).
 
