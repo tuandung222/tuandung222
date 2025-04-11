@@ -227,6 +227,8 @@ I have a strong background in mathematics and a passion for Artificial Intellige
 <img src="https://github-readme-stats.vercel.app/api?username=tuandung222&show_icons=true" />
 </picture>
 
+
+<--
 ## 🔭 Featured Repositories
 
 <a href="https://github.com/tuandung222/knowledge-distillation-coding-qa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=knowledge-distillation-coding-qa" width=400> </a> 
@@ -242,3 +244,4 @@ I have a strong background in mathematics and a passion for Artificial Intellige
   <img src="https://shields.io/github/stars/tuandung222?style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/tuandung222?style=for-the-badge"/>
 </p>
+-->
