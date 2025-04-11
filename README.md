@@ -108,7 +108,7 @@ I have a strong background in mathematics and a passion for Artificial Intellige
 - University Incentive Scholarship for Outstanding Students (Sep 2023)
 - Odon Vallet Scholarship For Outstanding Vietnamese Students (Sep 2020)
 - Third Prize, Vietnam Mathematical Olympiad (VMO) (Jan 2020)
-- Gold Medal with Top 5/1, April 30th Mathematics Olympiad for Gifted Students (2018-2019)
+- Gold Medal with Top 5 (in 2019) & Top 1 (in 2018), April 30th Mathematics Olympiad for Gifted Students (2018-2019)
 
 ## 🛠️ Skills
 
