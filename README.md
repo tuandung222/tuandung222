@@ -30,15 +30,15 @@ I have a strong background in mathematics and a passion for Artificial Intellige
 **Dien Toan Group** | Jul 2024 - Apr 2025 | Tan Binh District, HCM City
 - Pretrained a multilingual vision-language backbone (Vietnamese/English/Chinese) for Text-based Person Re-identification on a large-scale dataset (36 million image-text pairs) using 4 NVIDIA A100 GPUs
 - Pretrained/Fine-tuned models for Text-based Person Re-identification using custom PyTorch implementation without relying on high-level training frameworks
-- Collaborated with Deployment Engineers to optimize models in ONNX/Tensor-RT format and deploy them to production using NVIDIA Triton Inference Server
-- Designed and documented the data annotation workflow, evaluating tools like CVAT and Label Studio to streamline the dataset preparation process
+<!-- - Collaborated with Deployment Engineers to optimize models in ONNX/Tensor-RT format and deploy them to production using NVIDIA Triton Inference Server -->
+<!-- - Designed and documented the data annotation workflow, evaluating tools like CVAT and Label Studio to streamline the dataset preparation process -->
 - Extended the original English pretraining datasets by adding Chinese and Vietnamese captioning annotations, demonstrating that multilingual pretraining improves zero-shot retrieval performance by over 1.2% Rank-1
 - Leveraged advanced LLMs and MLLMs with optimized inference frameworks (vLLM, lmdeploy, SGLang) to accelerate data augmentation, enhancing dataset diversity and quality for improved model performance
 
 ### AI Researcher
 **Dien Toan Group** | Oct 2023 - Jun 2024 | Tan Binh District, HCM City
 - Proposed shifting the company's focus from fixed-attribute person re-identification to Vietnamese Text-based Person Re-identification, a more practical solution for the local context
-- Established this feature as the company's flagship AI product, gaining attention from government agencies and outperforming competitors
+<!-- - Established this feature as the company's flagship AI product, gaining attention from government agencies and outperforming competitors -->
 - Constructed the first Vietnamese pretraining and benchmark datasets for this task, significantly enhancing fine-tuning efficiency and model generalization
 - Developed a Vietnamese Vision-Language backbone based on the ALBEF architecture, integrating SOTA Vietnamese language models such as PhoBERT (VinAI Research) and ViDeBERTa (FSOFT AI)
 - Improved the image encoder stream using architectures from the HAP and SOLIDER frameworks, leveraging Vision Transformer/Swin Transformer models pre-trained on human-centric surveillance datasets
@@ -54,7 +54,8 @@ I have a strong background in mathematics and a passion for Artificial Intellige
 
 ### Research Assistant
 **Data Science Lab, CSE Faculty, HCMUT** | Aug 2023 - Feb 2025 | District 10, HCM City
-- Conducted academic research on Text-based Person Re-identification under the supervision of the Lab Head, who is also one of the leaders of Dien Toan Group
+- Conducted academic research on Text-based Person Re-identification
+ <!-- under the supervision of the Lab Head, who is also one of the leaders of Dien Toan Group -->
 - Served as the sole researcher responsible for the entire project, developing a state-of-the-art model that achieved a 2.8% Rank-1 accuracy improvement on benchmark datasets over recent SOTA models
 - The resulting models became the highlighted AI products of the lab and serves as a benchmark for future research
 - Due to the sensitivity of surveillance camera data and commercial constraints, the work is being developed as an internal proprietary product rather than submitted for publication
