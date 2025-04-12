@@ -214,7 +214,7 @@ I have a strong background in mathematics and a passion for Artificial Intellige
 - Deep Learning Specialization — DeepLearning.AI (Jun 2023)
 - TensorFlow Developer Professional Certificate — DeepLearning.AI (Jun 2023)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <picture>
 <source 
@@ -226,15 +226,15 @@ I have a strong background in mathematics and a passion for Artificial Intellige
   media="(prefers-color-scheme: light)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=tuandung222&show_icons=true" />
-</picture>
+</picture> -->
 
-
+<!-- 
 ## 🔭 Featured Repositories
 
 <a href="https://github.com/tuandung222/knowledge-distillation-coding-qa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=knowledge-distillation-coding-qa" width=400> </a> 
 <a href="https://github.com/tuandung222/semantic-search-rag"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=semantic-search-rag" width=400> </a> 
 <a href="https://github.com/tuandung222/human-activity-recognition"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=human-activity-recognition" width=400> </a> 
-<a href="https://github.com/tuandung222/ai-puzzle-agents"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=ai-puzzle-agents" width=400> </a> 
+<a href="https://github.com/tuandung222/ai-puzzle-agents"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuandung222&repo=ai-puzzle-agents" width=400> </a>  -->
 
 ---
 
